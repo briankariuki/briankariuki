@@ -11,4 +11,4 @@ I'm a full stack developer using TypeScript, Javascript, Python, React, Vue.js, 
 - 🐦 Twitter: [@briankariuki](https://twitter.com/briankariuki)
 - 📖 Website: [https://briankariuki.github.io/portfolio/](https://briankariuki.github.io/portfolio/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=briankariuki&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=briankariuki&&count_private=true&show_icons=true&&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
