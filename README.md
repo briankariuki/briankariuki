@@ -7,7 +7,7 @@ I'm a full stack developer using TypeScript, Javascript, Python, React, Vue.js, 
 **briankariuki/briankariuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### ☕ Let's chat?
-- 📫 Mail: bryankariuki79@gmail.com
+- 📫 Mail: briankariukidev@gmail.com
 - 🐦 Twitter: [@briankariuki](https://twitter.com/briankariuki)
 - 📖 Website: [https://briankariuki.github.io/portfolio/](https://briankariuki.github.io/portfolio/)
 
