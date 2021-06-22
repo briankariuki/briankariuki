@@ -9,6 +9,7 @@ I'm a full stack developer using TypeScript, Javascript, Python, React, Vue.js, 
 ### ☕ Let's chat?
 - 📫 Mail: briankariukidev@gmail.com
 - 🐦 Twitter: [@briankariuki](https://twitter.com/briankariuki)
+- 📖 LinkedIn [@brian-kariuki](https://www.linkedin.com/in/brian-kariuki/)
 - 📖 Website: [https://briankariuki.github.io/portfolio/](https://briankariuki.github.io/portfolio/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=briankariuki&&count_private=true&show_icons=true&&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
