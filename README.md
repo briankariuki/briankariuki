@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello There! 👋
 
 I'm Brian, I write code. Currently based in Nairobi, Kenya.
 I'm a full stack developer using TypeScript, Javascript, Python, Dart and Flutter 💙, Elixir
@@ -10,6 +10,5 @@ I'm a full stack developer using TypeScript, Javascript, Python, Dart and Flutte
 - 📫 Mail: briankariukidev@gmail.com
 - 🐦 Twitter: [@briankariuki](https://twitter.com/briankariuki)
 - 📖 LinkedIn [@brian-kariuki](https://www.linkedin.com/in/brian-kariuki/)
-- 📖 Website: [https://briankariuki.github.io/portfolio/](https://briankariuki.github.io/portfolio/)
 
 
